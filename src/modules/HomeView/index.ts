@@ -1,1 +1,1 @@
-export * from './HomeView.styles'
+export * from './HomeView'

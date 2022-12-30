@@ -1,13 +1,24 @@
 import React from 'react'
 
-import { FlexContainer } from '../../shared-components'
+import { Colors, FlexContainer, Navbar } from '../../shared-components'
 
-export const HomeView = () => {
+import { EnergySection } from './EnergySection'
+import { FAQSection } from './FAQSection'
+import { FeaturesSection } from './FeaturesSection'
+import { FooterSection } from './FooterSection'
+import { HeroSection } from './HeroSection'
+
+export const HomeView: React.FunctionComponent = () => {
     return (
-        <FlexContainer flexDirection={'row'}>
-            <h1>test</h1>
-            <h1>test</h1>
-            <h1>test</h1>
-        </FlexContainer>
+        <>
+            <Navbar />
+            <FlexContainer flexDirection={'column'} gap={'0'} backgroundColor={Colors.black}>
+                <HeroSection />
+                <EnergySection />
+                <FeaturesSection />
+                <FAQSection />
+                <FooterSection />
+            </FlexContainer>
+        </>
     )
 }

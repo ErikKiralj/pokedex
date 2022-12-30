@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="15"
+   height="15"
+   viewBox="0 0 15 15"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="plus_icon.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="15.733333"
+     inkscape:cx="7.5317797"
+     inkscape:cy="7.5"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="1221"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <rect
+     y="6.47998"
+     width="14.4"
+     height="1.44"
+     fill="black"
+     id="rect9"
+     style="fill:#ffffff" />
+  <rect
+     x="7.91992"
+     width="14.4"
+     height="1.44"
+     transform="rotate(90 7.91992 0)"
+     fill="black"
+     id="rect11"
+     style="fill:#ffffff" />
+</svg>
