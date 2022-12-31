@@ -1,8 +1,24 @@
+@font-face {
+  font-family: 'Aquire';
+  src: url('/Aquire.otf');
+}
+
+@font-face {
+  font-family: 'Aquire-Light';
+  src: url('/AquireLight.otf');
+}
+
+@font-face {
+  font-family: 'Aquire-Bold';
+  src: url('/AquireBold.otf');
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: "Roboto", serif;
+  font-family: 'Aquire', sans-serif;
+
 }
 
 html {
